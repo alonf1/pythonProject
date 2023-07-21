@@ -18,4 +18,3 @@ while a < 5:
     a += 1
 else:
     print("finished")
-    
