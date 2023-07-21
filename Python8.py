@@ -1,3 +1,5 @@
+#tests
+
 import requests
 
 url = "http://universities.hipolabs.com/search?country=Israel"
